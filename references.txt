@@ -1,0 +1,5 @@
+Python 3.8 기초 래퍼런스
+
+
+3) VCF 분석도구 Hail :  https://hail.is/docs/batch/tutorial.html
+4) VCF 분석도구 Hail 한국어 : https://github.com/joonan-lab/hail_tutorial
